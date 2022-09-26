@@ -1,2 +1,0 @@
-print('right')
-print('alt')
