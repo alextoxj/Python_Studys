@@ -1,1 +1,2 @@
 print('right')
+print('alt')
